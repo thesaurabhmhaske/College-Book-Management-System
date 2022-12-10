@@ -45,26 +45,12 @@ A Library Management System  allows you to keep the Library book records, Librar
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-### Important JAR links:
-
-- [Download all Required JAR files](https://t.me/eagle_programming/13)
-
-
-
-
-## Project Demo:
-
-
-https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-9bff-898fc482c180.mp4
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
 
 
 # User Interface Screenshots:
 
 ### Login Page:
-![image](https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png)
+![image](https://i.postimg.cc/YMxyCqrV/Screenshot-12.png)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
@@ -72,24 +58,24 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 
 
 ### Dashboard Page:
-![image](https://user-images.githubusercontent.com/70682152/187031861-42257899-2330-4b27-a118-8edb5e1afa0f.png)
+![image](https://i.postimg.cc/FNqkc0HJ/Screenshot-13.png)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
 
 ### Account Management Page:
-![image](https://user-images.githubusercontent.com/70682152/187031895-48d333de-5fda-4988-bc04-4c84c1a3edf2.png)
+![image](https://i.postimg.cc/NM3Mw1Nj/Screenshot-20.png)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
 
 ### Manage Books Page:
-![image](https://user-images.githubusercontent.com/70682152/187031911-ffb69ae7-b6a9-4404-a0a2-8a6e996b1c81.png)
+![image](https://i.postimg.cc/7wcX6GvK/Screenshot-15.png)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-### Manage Students Page:
+<!-- ### Manage Students Page:
 ![image](https://user-images.githubusercontent.com/70682152/187031936-eca77f5c-6a39-4bfd-9532-83c43c7779ae.png)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -120,7 +106,7 @@ https://user-images.githubusercontent.com/70682152/187031200-7bae1082-a97b-49ef-
 ![image](https://user-images.githubusercontent.com/70682152/187032046-18ea97b4-f892-42c0-a01f-c39176fd6dd4.png)
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
-</div>
+</div> -->
 
 
 
